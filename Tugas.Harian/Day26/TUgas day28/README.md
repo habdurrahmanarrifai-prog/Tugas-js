@@ -1,7 +1,7 @@
 
 # Tugas Day 28 - Kasir Warung dengan Operator JavaScript
 
-**Nama:** [Tulis Nama Kamu]
+**Nama:** [Hanif Abdurrahman Arrifa'i]
 
 ## Hal yang Saya Pelajari
 Saya belajar menggunakan operator aritmatika, perbandingan, logika, dan penugasan dalam JavaScript. Saya juga belajar menghitung total belanja, pajak, potongan harga, dan kembalian menggunakan program kasir sederhana.
